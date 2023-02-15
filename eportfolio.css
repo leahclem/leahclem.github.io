@@ -5,7 +5,7 @@ body {
 	background-repeat: no-repeat;
     background-attachment: fixed;
 	background-size: cover;
-	}
+}
 #about{
 	padding:16px;
 	background: #d0eadf;
@@ -20,7 +20,7 @@ body {
 	border-radius: 20px;
 	padding:1em;
 
-	}
+}
 #content {
 	text-align:center;
 	padding:16px;
@@ -30,7 +30,7 @@ h1 {
 	text-align:center;
 	color:#157069;
 	font: 40px 'Rajdhani', sans-serif;
-	}
+}
 h2 {
 	background:#D2C2AD;
 	color:#1e373c;
@@ -40,7 +40,7 @@ h2 {
 	font-size:35px;
 	text-decoration: none;
 	margin-top:5px;
-	}
+}
 header h1 {
 	border: 4px solid #D2C2AD; 
 	display:block;
@@ -54,7 +54,7 @@ header h1 {
 nav {
 	text-align:center;
 	position:relative;
-	}
+}
 nav a {
 	background-color:rgba(21,112,105,0.65);
 }
@@ -67,7 +67,7 @@ nav a:link {
 	padding: 10px;
 	width: 110px;
 	text-align:center;
-	}
+}
 nav a:visited {
 	border: 3px solid #D2C2AD;
 	text-decoration: none;
@@ -76,12 +76,12 @@ nav a:visited {
 	padding: 1em;
 	width: 100px;
 	font-weight: bold;
-	}
+}
 nav a:hover { 
 	color:#157069;
 	background-color:#74cfc0;
 	font-weight: bold;
-	}
+}
 .image {
     border: 1px solid #ddd;
     border-radius: 4px;
