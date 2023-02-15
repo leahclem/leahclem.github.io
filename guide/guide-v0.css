@@ -1,0 +1,67 @@
+@charset "utf-8";
+figure img {
+	box-shadow: -11px 12px 12px black;
+	margin-left: 60px;
+}
+figcaption {
+	font-size: smaller;
+	color: white;
+	margin-left: 60px;
+}
+body {
+	background-image: url(../guide/images-guide/trees.jpg);
+	background-color: white;
+	}
+#wrapper {
+	width: 700px;
+	padding-left: 2em;
+	padding-right: 2em;
+	margin-left: auto;
+	margin-right: auto;
+	background: #FF6E00;
+	font-family: 'Quattrocento', serif;
+	color: #6A2C3E;
+	border-radius: 20px;
+	}
+header {
+	margin-top: 75px;
+	padding-left: 5em;
+	font: 20px 'Rajdhani', sans-serif;
+}
+content:h1 {
+	font-family: 'Rajdhani', sans-serif;
+	text-decoration: none;
+	}
+nav {
+	position: relative; 
+	left: 57px;
+	}
+nav a:link {
+	border: 2px solid #7D0406;
+	font-weight: bold;
+	display: inline-block;
+	text-decoration: none;
+	background-color: white;
+	color: maroon;
+	padding: 1em;
+	width: 100px;
+	}
+nav a:visited {
+	text-decoration: none;
+	background-color: white;
+	color: maroon;
+	padding: 1em;
+	width: 100px;
+	font-weight: bold;
+	}
+nav a:hover { 
+	color: orange;
+	background: white;
+	padding: 1em;
+	width: 100px;
+	font-weight: bold;
+	}
+footer {
+	font-size: smaller;
+	color: black;
+}

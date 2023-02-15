@@ -1,0 +1,96 @@
+@charset "utf-8";
+.bburg {
+	text-align:center;
+	margin-top:5px;
+}
+body {
+	background-image: url(images-guide/trees.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-color: white;
+	background-size: cover;
+	}
+content:h1 {
+	font-family: 'Rajdhani', sans-serif;
+	text-decoration: none;
+	}
+figure {
+	text-align: center;
+}
+figure img {
+	box-shadow: -1px 9px 15px 6px rgba(0, 0, 0, .4);
+	border-radius: 10px;
+}
+figcaption {
+	font-size: smaller;
+	color: white;
+	margin: auto;
+}
+header {
+	display:block;
+	font: 20px 'Rajdhani', sans-serif;
+	text-align: center;
+}
+h2 {
+	padding-left: 35px;
+}
+#content {
+	margin-top:15px;
+	margin-bottom:15px;
+	border: dotted rgba(140,18,53,0.75);
+	border-radius: 20px;
+	padding: 15px;
+}
+#wrapper {
+	width: 700px;
+	padding:0 2em 1em 2em;
+	margin-left: auto;
+	margin-right: auto;
+	background: rgba(255,110,0,0.88);
+	border-radius: 20px;
+	color: rgba(114,14,43,1.00);
+	font-family: 'Quattrocento', serif;
+	}
+nav {
+	position:relative;
+	margin-left:30px;
+	}
+nav a:link {
+	border: 2px solid #7D0406;
+	font-weight: bold;
+	display: inline-block;
+	text-decoration: none;
+	background-color: white;
+	color: maroon;
+	padding: 1em;
+	width: 110px;
+	text-align:center;
+	}
+nav a:visited {
+	text-decoration: none;
+	background-color: white;
+	color: maroon;
+	padding: 1em;
+	width: 100px;
+	font-weight: bold;
+	}
+nav a:hover { 
+	color: orange;
+	background: white;
+	padding: 1em;
+	font-weight: bold;
+	}
+footer {
+	font-size: smaller;
+	color: black;
+	margin-bottom:1em;
+	margin-left:1em;
+}
+table {
+	margin: 0;
+}
+tr, td {
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
